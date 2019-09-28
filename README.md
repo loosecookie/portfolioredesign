@@ -1,4 +1,3 @@
-# Portfolio Redesign
+# portfolioredesign
 
-Second version of my portfolio available to view here
-https://loosecookie.github.io/portfolioredesign/index.html
+[file:///C:/Users/Lucy%20Cook/Documents/IXD%20YR2/IXD%20301/portfolioredesign/index.html]
